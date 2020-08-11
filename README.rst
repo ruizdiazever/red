@@ -1,7 +1,7 @@
-red_cc
-======
+Liber
+=====
 
-Este es un proyecto creado con Cookie Cutter
+Proyecto creado con Cookie Cutter, descripcion completa en desarrollo.
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
@@ -42,7 +42,7 @@ Running type checks with mypy:
 
 ::
 
-  $ mypy red_cc
+  $ mypy red
 
 Test coverage
 ^^^^^^^^^^^^^

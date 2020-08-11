@@ -1,7 +1,7 @@
 import pytest
 from django.urls import resolve, reverse
 
-from red_cc.users.models import User
+from red.users.models import User
 
 pytestmark = pytest.mark.django_db
 

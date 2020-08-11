@@ -2,8 +2,8 @@
 # ------------------------------------------------------------------------------
 # DJANGO_READ_DOT_ENV_FILE=True
 DJANGO_SETTINGS_MODULE=config.settings.production
-DJANGO_SECRET_KEY=HUU9XvFBgxatyHQ7iYbddTDTuCPmmROW3Adcul4sKYCR3o7FptX0k6Nm92LWSsn7
-DJANGO_ADMIN_URL=QWI1sShpa4h1iD0fIetPfPtjvzRZoc6O/
+DJANGO_SECRET_KEY=xX2uwHeVEE2LC8DMF4CV0nDenjZGXDYrX4mQkPStP6nQsbBc3FQQIZ5n3eECson5
+DJANGO_ADMIN_URL=5cIduxblVDmq3jh6XB9jC9DB6EOOk9TQ/
 DJANGO_ALLOWED_HOSTS=.www.liber.com
 
 # Security

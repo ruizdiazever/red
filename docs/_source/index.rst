@@ -1,9 +1,9 @@
-.. red_cc documentation master file, created by
+.. Liber documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to red_cc's documentation!
+Welcome to Liber's documentation!
 ======================================================================
 
 .. toctree::

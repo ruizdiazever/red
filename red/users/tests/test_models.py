@@ -1,6 +1,6 @@
 import pytest
 
-from red_cc.users.models import User
+from red.users.models import User
 
 pytestmark = pytest.mark.django_db
 

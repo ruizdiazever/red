@@ -5,7 +5,7 @@ from django.utils.translation import gettext_lazy as _
 
 
 class User(AbstractUser):
-    """Default user for red_cc.
+    """Default user for Liber.
     """
 
     #: First and last name do not cover name patterns around the globe

@@ -23,7 +23,7 @@ django.setup()
 
 # -- Project information -----------------------------------------------------
 
-project = "red_cc"
+project = "Liber"
 copyright = """2020, Ever Ruiz Diaz"""
 author = "Ever Ruiz Diaz"
 

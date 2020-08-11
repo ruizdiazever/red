@@ -1,7 +1,7 @@
 import pytest
 
-from red_cc.users.models import User
-from red_cc.users.tests.factories import UserFactory
+from red.users.models import User
+from red.users.tests.factories import UserFactory
 
 
 @pytest.fixture(autouse=True)
