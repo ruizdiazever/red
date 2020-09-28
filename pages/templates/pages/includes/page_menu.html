@@ -13,11 +13,12 @@
         <div class="collapse navbar-collapse" id="nep">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Crear pagina</a>
+                    <a class="nav-link" href="{% url 'pages:create' %}"><i>Crear pagina</i></a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Listar pagina</a>
+                    <a class="nav-link" href="{% url 'pages:pages' %}">Listar pagina</a>
+                    {% comment %} <a class="nav-link" href="{% url 'pages:delete' %}">Listar pagina</a> {% endcomment %}
                 </li>
             </ul>
         </div>
