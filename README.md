@@ -15,6 +15,7 @@ This project is to put learning into practice
 Basic commands
 ```
 $ docker-compose -f local.yml build
+$ docker-compose -f local.yml up
 $ docker-compose -f local.yml up -d
 $ docker-compose -f local.yml down -v
 $ docker-compose -f local.yml down -v --remove-orphans 
